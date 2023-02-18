@@ -1,4 +1,4 @@
-FROM node:12.2
+FROM node:fermium-bullseye-slim
 
 ENV HOME=/home/app
 
