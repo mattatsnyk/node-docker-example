@@ -27,8 +27,8 @@
     "fibonacci": "^1.6.7",
     "lightship": "^4.3.1",
     "mongoose": "^4.13.19",
-    "request": "^2.88.0",
-    "request-promise": "^4.2.4",
+    "request": "^2.88.2",
+    "request-promise": "^4.2.6",
     "worker-threads-pool": "^2.0.0"
   },
   "devDependencies": {
